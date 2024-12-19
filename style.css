@@ -4,7 +4,7 @@
 /* Estiliza o corpo da página */
 body {
     font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
-    background-image: url('https://i0.wp.com/oquartonerd.com.br/wp-content/uploads/2020/04/kino.png?w=1200&ssl=1'); /* Caminho para a imagem local */
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-premium%2Ffileiras-de-cadeiras-confortaveis-do-cinema-vermelho-cinema-em-um-fundo-preto-renderizacao-3d_16794417.htm&psig=AOvVaw0OGwz7cYDAYufkYphDnd85&ust=1734720193182000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPC3xbu-tIoDFQAAAAAdAAAAABAE'); /* Caminho para a imagem local */
     background-size: cover; /* Ajusta o tamanho da imagem para cobrir toda a área do fundo */
     background-position: center; /* Centraliza a imagem no fundo */
     background-repeat: no-repeat; /* Evita que a imagem se repita */
